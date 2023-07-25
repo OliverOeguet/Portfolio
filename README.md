@@ -6,6 +6,6 @@
 4. Fähigkeiten
 5. Kontakt
 
-=================
+---------------------------
 
 HTML CSS JAVASCRIPT 
