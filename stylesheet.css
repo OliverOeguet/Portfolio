@@ -13,7 +13,7 @@
 
 :root {
     --bg-color: black;
-    --second-bg-color: blue;
+    --second-bg-color: #19196F;
     --text-color: white;
     --main-color: #F6CA08;
 
@@ -86,7 +86,7 @@ section {
 .home-content {
     max-width: 70rem;
     background: rgb(0,0,0);
-    background: radial-gradient(circle, rgba(0,0,0,0.7959558823529411) 0%, rgba(0,0,0,0.4990371148459384) 100%);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0.836) 0%, rgba(0, 0, 0, 0.685) 100%);
     border-radius: 20px;
     padding: 2rem;
 
@@ -174,5 +174,16 @@ section {
 
 .btn-box .btn:hover::before {
     width: 100%;
+
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    background: var(--second-bg-color);
+    padding-bottom: 6rem;
 
 }
