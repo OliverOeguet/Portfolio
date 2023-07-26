@@ -11,7 +11,7 @@
 HTML CSS JAVASCRIPT 
 
 
-[Visit my Portfolio-Webiste]([https://www.google.com](https://oliveroeguet.github.io/Portfolio/)https://oliveroeguet.github.io/Portfolio/)
+[Visit my Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/)
 
 
 
