@@ -1,4 +1,6 @@
-# Willkommen auf meiner Portfolio-Website
+# Ei Gude! 
+
+--------------------------
 
 1. Start
 2. Über mich
@@ -8,4 +10,10 @@
 
 ---------------------------
 
-HTML CSS JAVASCRIPT 
+##Meine Projekte 
+
+Visit my [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/)
+
+-------------------------
+
+##Meine Zertifikate
