@@ -12,7 +12,7 @@
 
 ##Meine Projekte 
 
-Visit my [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/)
+Jetzt meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
 
 -------------------------
 
