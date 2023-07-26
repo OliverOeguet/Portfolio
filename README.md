@@ -1,4 +1,4 @@
-# Willkommen auf meiner Portfolio-Website
+# Ei Gude! 
 
 1. Start
 2. Über mich
