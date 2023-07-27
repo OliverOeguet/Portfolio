@@ -88,7 +88,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('Images/FrankfurtSkyline.webP') no-repeat;
+    background: url("Images/FrankfurtSkyline.webP") no-repeat;
     background-size: cover;
     background-position: center;
     
