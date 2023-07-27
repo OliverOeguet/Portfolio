@@ -12,8 +12,15 @@
 
 ## Meine Projekte 
 
-Jetzt meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
+1. Meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
+2. Projekt
+3. Projekt
+4. Projekt
 
 -------------------------
 
-##Meine Zertifikate
+## Meine Zertifikate
+
+1. HTML
+2. CSS
+3. Javascript
