@@ -129,6 +129,7 @@ section {
     background-image: linear-gradient(var(--main-color), var(--main-color));
     background-repeat: no-repeat; 
     -webkit-background-clip: text;
+    background-clip: text;
     background-position: -33rem 0;
 }
 
@@ -649,6 +650,11 @@ span {
 
 .footer-iconTop a:hover::before {
     width: 100%;
+    color: var(--bg-color);
+}
+
+.footer-iconTop a:active {
+    color: var(--main-color);
 }
 
 .footer-icon-Top a i {
