@@ -1,5 +1,6 @@
 # Meine Portfolio-Website [besuchen](https://oliveroeguet.github.io/Portfolio)
 
+
 ## Meine Projekte 
 
 1. [Projekt:](https://github.com/OliverOeguet/Wine-Festival-Schedule) Simple Table <br>
@@ -11,10 +12,8 @@
 4. Projekt: <br>
    Projekt Website:
 
--------------------------
 
 ## Meine Zertifikate
-
 
 1. [Code Foundations](./Images/CodeFoundationsSkillPath.pdf)
 2. [Learn how to Code](./Images/LearnHowtoCodeCourse.pdf)
