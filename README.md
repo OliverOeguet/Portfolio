@@ -1,19 +1,19 @@
 # Meine Portfolio-Website [besuchen](https://oliveroeguet.github.io/Portfolio)
 
 
-## Meine Projekte 
+## Einsteigerfreundliche Codeacademy Projekte: 
 
-1. [Projekt:](https://github.com/OliverOeguet/Wine-Festival-Schedule) Simple Table <br>
-   [Projekt Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule) Wine-Festival-Schedule
-2. Projekt: <br>
-   Projekt Website:
-3. Projekt: <br>
-   Projekt Website:
-4. Projekt: <br>
-   Projekt Website:
+1. [Projekt:](https://github.com/OliverOeguet/Wine-Festival-Schedule) Einfache Tabelle <br>
+   [Projekt Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule) "Wine-Festival-Schedule"
+2. [Projekt:](https://github.com/OliverOeguet/Form-a-story) Zufälligen Text generieren <br>
+   [Projekt Website:](https://oliveroeguet.github.io/Form-a-story/) "Form-A-Story" 
+3. [Projekt:](https://github.com/OliverOeguet/DaviesBurgers) Einfache LandingPage <br>
+   [Projekt Website:](https://oliveroeguet.github.io/DaviesBurgers) "Davie's Burgers"
+4. [Projekt:](https://github.com/OliverOeguet/DefaultLandingPage) Einfache Landingpage <br>
+   [Projekt Website:](https://oliveroeguet.github.io/DefaultLandingPage) "WE ARE BROADWAY"
 
 
-## Meine Zertifikate
+## Meine Zertifikate:
 
 1. [Code Foundations](./Images/CodeFoundationsSkillPath.pdf)
 2. [Learn how to Code](./Images/LearnHowtoCodeCourse.pdf)
