@@ -1,15 +1,11 @@
-# Ei Gude! 
-
---------------------------
-
-## Meine [Portfolio-Website](https://oliveroeguet.github.io/Portfolio/) besuchen
+# Meine [Portfolio-Website](https://oliveroeguet.github.io/Portfolio/) besuchen
 
 ---------------------------
 
 ## Meine Projekte 
 
 1. [Projekt:](https://github.com/OliverOeguet/Wine-Festival-Schedule) Simple Table <br>
-   Projekt [Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule) Wine-Festival-Schedule
+   [Projekt Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule) Wine-Festival-Schedule
 2. Projekt: <br>
    Projekt [Website:
 3. Projekt: <br>
