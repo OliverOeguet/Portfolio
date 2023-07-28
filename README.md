@@ -1,7 +1,5 @@
 # Meine Portfolio-Website [besuchen](https://oliveroeguet.github.io/Portfolio)
 
----------------------------
-
 ## Meine Projekte 
 
 1. [Projekt:](https://github.com/OliverOeguet/Wine-Festival-Schedule) Simple Table <br>
