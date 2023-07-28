@@ -2,17 +2,13 @@
 
 --------------------------
 
-1. Start
-2. Über mich
-3. Lebenslauf
-4. Fähigkeiten
-5. Kontakt
+## Meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
 
 ---------------------------
 
 ## Meine Projekte 
 
-1. Meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
+1. 
 2. Projekt
 3. Projekt
 4. Projekt
@@ -22,7 +18,7 @@
 ## Meine Zertifikate
 
 
-Code Foundations [here](./Images/CodeFoundationsSkillPath.pdf) # It works!
-1. HTML
-2. CSS
-3. Javascript
+1. [Code Foundations](./Images/CodeFoundationsSkillPath.pdf)
+2. [Learn how to Code](./Images/LearnHowtoCodeCourse.pdf)
+3. [Learn JavaScript](./Images/LearnJavaScriptCourse.pdf)
+4. [Web Foundations](./Images/WebFoundations.png)
