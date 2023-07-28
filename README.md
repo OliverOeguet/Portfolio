@@ -2,7 +2,7 @@
 
 --------------------------
 
-## Meine [Portfolio-Webiste](https://oliveroeguet.github.io/Portfolio/) besuchen
+## Meine [Portfolio-Website](https://oliveroeguet.github.io/Portfolio/) besuchen
 
 ---------------------------
 
