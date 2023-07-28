@@ -15,7 +15,7 @@ let navLinks = document.querySelectorAll('header nav a');
 window.onscroll = () => {
     sections.forEach(sec => {
         let top = window.scrollY;
-        let offset = sec.offsetTop -100;
+        let offset = sec.offsetTop -300;
         let height = sec.offsetHeight;
         let id = sec.getAttribute('id'); 
 
@@ -27,11 +27,7 @@ window.onscroll = () => {
             });
             //active sections for animation on scroll
             sec.classList.add('show-animate');
-        }
-        //if want to use animation that repeats on scroll use this
-        else {
-            sec.classList.remove('show-animate');
-        }
+        }   
     });
     //sticky header
     let header = document.querySelector('header');

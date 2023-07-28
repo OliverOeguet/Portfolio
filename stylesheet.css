@@ -526,7 +526,8 @@ span {
 
 .contact {
     min-height: auto;
-    padding-bottom: 7rem;
+    padding-top: 10rem;
+    padding-bottom: 25rem;
 }
 
 .contact h2{
@@ -536,6 +537,7 @@ span {
 }
 
 .contact form {
+    padding-top: 5rem;
     max-width: 70rem;
     margin: 0 auto;
     text-align: center;
@@ -706,7 +708,7 @@ section:nth-child(odd) .animate.scroll,
 .skills.show-animate .animate.scroll,
 .contact.show-animate .animate.scroll,
 .footer.show-animate .animate.scroll {
-    transition-delay: calc(.3s * var(--i));
+    transition-delay: calc(.1s * var(--i));
     width: 0;
 }
 
