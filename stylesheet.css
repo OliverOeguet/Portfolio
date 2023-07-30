@@ -80,7 +80,7 @@ body {
 }
 
 section {
-    min-height: 100vh;
+    height: 100%;
     padding: 10rem 9% 2rem;
 }
 
@@ -91,7 +91,7 @@ section {
     background: url('Images/Skyline.webp') no-repeat;
     background-size: cover;
     background-position: center;
-    
+    min-height: 100vh;
 }
 
 .home-content {
@@ -226,7 +226,8 @@ section {
     flex-direction: column;
     gap: 2rem;
     background: var(--second-bg-color);
-    padding-bottom: 6rem;
+    padding-bottom: 15rem;
+    padding-top: 15rem;
 }
 
 .heading {
@@ -305,7 +306,8 @@ span {
     align-items: center;
     flex-direction: column;
     min-height: auto;
-    padding-bottom: 5rem;
+    padding-bottom: 15rem;
+    padding-top: 15rem;
 }
 
 .education .education-row {
@@ -391,7 +393,8 @@ span {
 
 .skills {
     min-height: auto;
-    padding-bottom: 7rem;
+    padding-bottom: 15rem;
+    padding-top: 15rem;
     background: var(--second-bg-color);
 }
 
@@ -527,8 +530,8 @@ span {
 
 .contact {
     min-height: auto;
-    padding-top: 10rem;
-    padding-bottom: 25rem;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
 }
 
 .contact h2{
