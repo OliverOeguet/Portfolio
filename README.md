@@ -11,9 +11,9 @@
 3. [Learn JavaScript](./Images/LearnJavaScriptCourse.pdf)
    
 ### Exams
-1. Web Foundations: [Part 1, ](./images/Webtheorie.pdf)[Part 2](./images/Webpraxis.pdf)
-2. Improved Styling with CSS: [Part 1, ](./images/ImprovedCSStheorie.pdf)[Part 2](./images/ImprovedCSSpraxis.pdf)
-3. Building interactive Websites: [Part 1, ](./images/WebsitesTheorie.pdf)[Part 2](./images/WebsitesPraxis.pdf)
-4. Front-End Development: [Part 1, ](./images/Frontendtheorie.pdf)[Part 2](./images/Frontendpraxis.pdf)
+1. Web Foundations: [Part 1, ](./images/Webtheorie.png)[Part 2](./images/Webpraxis.png)
+2. Improved Styling with CSS: [Part 1, ](./images/ImprovedCSStheorie.png)[Part 2](./images/ImprovedCSSpraxis.png)
+3. Building interactive Websites: [Part 1, ](./images/WebsitesTheorie.png)[Part 2](./images/WebsitesPraxis.png)
+4. Front-End Development: [Part 1, ](./images/Frontendtheorie.png)[Part 2](./images/Frontendpraxis.png)
 5. Interview Preperation: [Part 1, ](./images/)[Part 2](./images/)
 
