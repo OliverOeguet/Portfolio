@@ -10,10 +10,10 @@
 2. [Learn how to Code](./Images/LearnHowtoCodeCourse.pdf)
 3. [Learn JavaScript](./Images/LearnJavaScriptCourse.pdf)
    
-### Examen
-1. Web Foundations [Theorie](./images/Webtheorie.pdf)[Praxis](./images/Webpraxis.pdf)
-2. Improved Styling with CSS [Theorie](./images/ImprovedCSStheorie.pdf)[Praxis](./images/ImprovedCSSpraxis.pdf)
-3. Building interactive Websites [Theorie](./images/WebsitesTheorie.pdf)[Praxis](./images/WebsitesPraxis.pdf)
-4. Front-End Development [Theorie](./images/Frontendtheorie.pdf)[Praxis](./images/Frontendpraxis.pdf)
-5. Interview Preperation [Theorie](./images/)[Praxis](./images/)
+### Exams
+1. Web Foundations: [Part 1, ](./Images/Webtheorie.png)[Part 2](./Images/Webpraxis.png)
+2. Improved Styling with CSS: [Part 1, ](./Images/ImprovedCSStheorie.png)[Part 2](./Images/ImprovedCSSpraxis.png)
+3. Building interactive Websites: [Part 1, ](./Images/WebsitesTheorie.png)[Part 2](./Images/WebsitesPraxis.png)
+4. Front-End Development: [Part 1, ](./Images/Frontendtheorie.png)[Part 2](./Ímages/Frontendpraxis.png)
+5. Interview Preperation: [Part 1, ](./Images/)[Part 2](./Images/)
 
