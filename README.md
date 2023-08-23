@@ -15,5 +15,5 @@
 2. Improved Styling with CSS: [Part 1, ](./Images/ImprovedCSStheorie.png)[Part 2](./Images/ImprovedCSSpraxis.png)
 3. Building interactive Websites: [Part 1, ](./Images/WebsitesTheorie.png)[Part 2](./Images/WebsitesPraxis.png)
 4. Front-End Development: [Part 1, ](./Images/Frontendtheorie.png)[Part 2](./Ímages/Frontendpraxis.png)
-5. Interview Preperation: [Part 1, ](./Images/)[Part 2](./Images/)
+5. Interview Preperation: [Part 1, ](./Images/preptheorie.png)[Part 2](./Images/prepPraxis.png)
 
